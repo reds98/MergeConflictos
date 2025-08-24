@@ -1,2 +1,4 @@
 nombre = "Juan"
-print(f"Hola {nombre}, bienvenido al proyecto!")
+edad = 25
+print(f"Hola {nombre}, tienes {edad} años!")
+print("Bienvenido al proyecto!")
